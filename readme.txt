@@ -6,3 +6,4 @@ yes iam ready.
 
 no i am not ready
 
+ok i think i was teribled
